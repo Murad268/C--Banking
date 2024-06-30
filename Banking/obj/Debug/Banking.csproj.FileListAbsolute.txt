@@ -1,0 +1,7 @@
+C:\Users\TechEvo Computers\Desktop\Banking\Banking\obj\Debug\Banking.csproj.AssemblyReference.cache
+C:\Users\TechEvo Computers\Desktop\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\TechEvo Computers\Desktop\Banking\Banking\bin\Debug\Banking.exe.config
+C:\Users\TechEvo Computers\Desktop\Banking\Banking\bin\Debug\Banking.exe
+C:\Users\TechEvo Computers\Desktop\Banking\Banking\bin\Debug\Banking.pdb
+C:\Users\TechEvo Computers\Desktop\Banking\Banking\obj\Debug\Banking.exe
+C:\Users\TechEvo Computers\Desktop\Banking\Banking\obj\Debug\Banking.pdb
